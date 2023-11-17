@@ -17,8 +17,7 @@ This repository contains a Jupyter Notebooks script for building and evaluating 
 - [Model Evaluation](#model-evaluation)
 - [Visualizations](#visualizations)
 - [Saved Model](#saved-model)
-- [License](#license)
-- [Author](#author)
+
 
 ## Setup
 
