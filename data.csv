@@ -1,51 +1,21 @@
-student_id,age,gender,score,other_features,enrollment_status
-1,20,M,85,Participated in Clubs and Activities,1
-2,22,F,90,Volunteered for Community Service,1
-3,19,M,78,Member of Sports Team,0
-4,21,F,92,Received Academic Awards,1
-5,23,M,80,Participated in Clubs and Activities,1
-6,25,F,88,Participated in Research Projects,1
-7,20,M,75,Member of Music Band,0
-8,24,F,87,Volunteered for Community Service,1
-9,23,M,82,Received Academic Awards,1
-10,18,F,79,Participated in Sports,0
-11,22,M,89,Participated in Research Projects,1
-12,21,F,76,Member of Debate Team,0
-13,24,M,93,Received Academic Awards,1
-14,19,F,85,Participated in Clubs and Activities,1
-15,20,M,77,Participated in Sports,0
-16,22,F,91,Volunteered for Community Service,1
-17,23,M,79,Participated in Clubs and Activities,1
-18,25,F,88,Received Academic Awards,1
-19,21,M,81,Member of Music Band,0
-20,18,F,75,Participated in Sports,0
-21,22,M,90,Volunteered for Community Service,1
-22,24,F,86,Received Academic Awards,1
-23,20,M,78,Participated in Research Projects,1
-24,25,F,92,Participated in Clubs and Activities,1
-25,19,M,83,Member of Debate Team,0
-26,21,F,77,Volunteered for Community Service,0
-27,23,M,91,Received Academic Awards,1
-28,18,F,80,Participated in Clubs and Activities,1
-29,20,M,75,Participated in Sports,0
-30,22,F,89,Volunteered for Community Service,1
-31,21,M,76,Participated in Research Projects,1
-32,24,F,87,Received Academic Awards,1
-33,19,M,84,Member of Music Band,0
-34,23,F,78,Participated in Sports,0
-35,25,M,92,Volunteered for Community Service,1
-36,20,F,85,Received Academic Awards,1
-37,22,M,79,Participated in Clubs and Activities,1
-38,21,F,90,Participated in Sports,0
-39,24,M,88,Volunteered for Community Service,1
-40,18,F,76,Received Academic Awards,1
-41,23,M,81,Participated in Research Projects,1
-42,25,F,77,Member of Debate Team,0
-43,19,M,91,Participated in Clubs and Activities,1
-44,21,F,82,Volunteered for Community Service,1
-45,20,M,75,Received Academic Awards,1
-46,22,F,88,Participated in Sports,0
-47,24,M,84,Participated in Research Projects,1
-48,18,F,79,Member of Music Band,0
-49,23,M,90,Volunteered for Community Service,1
-50,25,F,86,Received Academic Awards,1
+student_id,age,gender,score,other_features,enrollment_status,graduation_status
+1,20,M,85,Participated in Clubs and Activities,1,1
+2,22,F,90,Volunteered for Community Service,1,1
+3,19,M,78,Member of Sports Team,0,0
+4,21,F,92,Received Academic Awards,1,1
+5,23,M,80,Participated in Clubs and Activities,1,0
+6,25,F,88,Participated in Research Projects,1,1
+7,20,M,75,Member of Music Band,0,0
+8,24,F,87,Volunteered for Community Service,1,1
+9,23,M,82,Received Academic Awards,1,1
+10,18,F,79,Participated in Sports,0,0
+11,22,M,89,Participated in Research Projects,1,1
+12,21,F,76,Member of Debate Team,0,0
+13,24,M,93,Received Academic Awards,1,1
+14,19,F,85,Participated in Clubs and Activities,1,1
+15,20,M,77,Participated in Sports,0,0
+16,22,F,91,Volunteered for Community Service,1,1
+17,23,M,79,Participated in Clubs and Activities,1,1
+18,25,F,88,Received Academic Awards,1,1
+19,21,M,81,Member of Music Band,0,0
+20,18,F,75,Participated in Sports,0,0

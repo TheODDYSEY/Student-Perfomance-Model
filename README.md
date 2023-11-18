@@ -1,8 +1,8 @@
-# Student Performance Prediction Model
+# Student Enrollment and Graduation Prediction
 
 ## Overview
 
-This repository contains a Jupyter Notebooks script for building and evaluating a machine learning model to predict student enrollment status based on various features. The script utilizes the RandomForestClassifier algorithm from scikit-learn.
+This project aims to predict student enrollment and graduation success based on historical student enrollment data, academic records, and demographic data..
 
 ## Table of Contents
 
@@ -61,6 +61,7 @@ python model_code.py
 
 - `model_code.py`: The main script containing the machine learning model training, evaluation, and visualization code.
 - `enrollment_model.pkl`: The serialized RandomForestClassifier model saved for future use.
+- `graduation_model.pkl` :The serialized model for future use
 
 ## Data
 
@@ -78,12 +79,11 @@ The script outputs the following:
 The script generates visualizations:
 
 - Confusion matrix heatmap
-- Feature importance plot
-- ROC curve
+
 
 ## Saved Model
 
-The trained model is saved as `enrollment_model.pkl` for future use.
+The trained model is saved as `enrollment_model.pkl` and `graduation_model.pkl` for future use.
 
 
 
